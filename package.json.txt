@@ -1,4 +1,4 @@
-{
-  "name": "cs-market-proxy",
-  "version": "1.0.0"
-}
+   cs-market-proxy/
+   ├── package.json
+   └── api/
+       └── market.js
