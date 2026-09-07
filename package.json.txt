@@ -1,0 +1,4 @@
+{
+  "name": "cs-market-proxy",
+  "version": "1.0.0"
+}
